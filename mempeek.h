@@ -25,7 +25,7 @@
 #define __MEMPEEK_H__
 
 
-#define DRIVER_VERSION  "v0.0.1"
+#define DRIVER_VERSION  "v0.0.2"
 #define DRIVER_AUTHOR   "Kevin Mahoney <kevin.mahoney@zenotec.net>"
 #define DRIVER_NAME     "mempeek"
 #define DRIVER_DESC     "Memory Peek utility for viewing physical memory"
